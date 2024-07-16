@@ -143,7 +143,11 @@ public class BookService : IBookService
 
         return mostBorrowedBooks;
     }
-
+     
+    public async Task SaveChanges() 
+    {
+        await _bookRepo.CommitAsync();    
+    }
 
 
 

@@ -10,3 +10,16 @@ C:\Users\USER\source\repos\Library Management Application\LMA.Core\obj\Debug\net
 C:\Users\USER\source\repos\Library Management Application\LMA.Core\obj\Debug\net8.0\LMA.Core.pdb
 C:\Users\USER\source\repos\Library Management Application\LMA.Core\obj\Debug\net8.0\ref\LMA.Core.dll
 C:\Users\USER\source\repos\Library Management Application\LMA.Core\obj\Debug\net8.0\LMA.Core.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Library Management Application\LMA.Core\bin\Debug\net8.0\LMA.Core.deps.json
+C:\Users\USER\Desktop\Library Management Application\LMA.Core\bin\Debug\net8.0\LMA.Core.dll
+C:\Users\USER\Desktop\Library Management Application\LMA.Core\bin\Debug\net8.0\LMA.Core.pdb
+C:\Users\USER\Desktop\Library Management Application\LMA.Core\obj\Debug\net8.0\LMA.Core.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Library Management Application\LMA.Core\obj\Debug\net8.0\LMA.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Library Management Application\LMA.Core\obj\Debug\net8.0\LMA.Core.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Library Management Application\LMA.Core\obj\Debug\net8.0\LMA.Core.AssemblyInfo.cs
+C:\Users\USER\Desktop\Library Management Application\LMA.Core\obj\Debug\net8.0\LMA.Core.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Library Management Application\LMA.Core\obj\Debug\net8.0\LMA.Core.sourcelink.json
+C:\Users\USER\Desktop\Library Management Application\LMA.Core\obj\Debug\net8.0\LMA.Core.dll
+C:\Users\USER\Desktop\Library Management Application\LMA.Core\obj\Debug\net8.0\refint\LMA.Core.dll
+C:\Users\USER\Desktop\Library Management Application\LMA.Core\obj\Debug\net8.0\LMA.Core.pdb
+C:\Users\USER\Desktop\Library Management Application\LMA.Core\obj\Debug\net8.0\ref\LMA.Core.dll

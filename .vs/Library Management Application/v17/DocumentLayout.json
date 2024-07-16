@@ -1,30 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\Library Management Application\\",
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\Library Management Application\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F16F623-DAF7-49F3-A423-CCFB5D469BD1}|LMA.CA\\LMA.CA.csproj|c:\\users\\user\\source\\repos\\library management application\\lma.ca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F16F623-DAF7-49F3-A423-CCFB5D469BD1}|LMA.CA\\LMA.CA.csproj|c:\\users\\user\\desktop\\library management application\\lma.ca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F16F623-DAF7-49F3-A423-CCFB5D469BD1}|LMA.CA\\LMA.CA.csproj|solutionrelative:lma.ca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72720884-5A4A-4ED8-B0CA-364AE9111F7E}|LMA.Business\\LMA.Business.csproj|c:\\users\\user\\source\\repos\\library management application\\lma.business\\services\\implementations\\borrowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{72720884-5A4A-4ED8-B0CA-364AE9111F7E}|LMA.Business\\LMA.Business.csproj|c:\\users\\user\\desktop\\library management application\\lma.business\\services\\interfaces\\iloanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72720884-5A4A-4ED8-B0CA-364AE9111F7E}|LMA.Business\\LMA.Business.csproj|solutionrelative:lma.business\\services\\interfaces\\iloanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72720884-5A4A-4ED8-B0CA-364AE9111F7E}|LMA.Business\\LMA.Business.csproj|c:\\users\\user\\desktop\\library management application\\lma.business\\services\\implementations\\borrowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72720884-5A4A-4ED8-B0CA-364AE9111F7E}|LMA.Business\\LMA.Business.csproj|solutionrelative:lma.business\\services\\implementations\\borrowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72720884-5A4A-4ED8-B0CA-364AE9111F7E}|LMA.Business\\LMA.Business.csproj|c:\\users\\user\\source\\repos\\library management application\\lma.business\\services\\interfaces\\iborrowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72720884-5A4A-4ED8-B0CA-364AE9111F7E}|LMA.Business\\LMA.Business.csproj|solutionrelative:lma.business\\services\\interfaces\\iborrowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C1B9B06-2719-4683-B7FC-811D83AB6C53}|LMA.Core\\LMA.Core.csproj|c:\\users\\user\\source\\repos\\library management application\\lma.core\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C1B9B06-2719-4683-B7FC-811D83AB6C53}|LMA.Core\\LMA.Core.csproj|c:\\users\\user\\desktop\\library management application\\lma.core\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C1B9B06-2719-4683-B7FC-811D83AB6C53}|LMA.Core\\LMA.Core.csproj|solutionrelative:lma.core\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72720884-5A4A-4ED8-B0CA-364AE9111F7E}|LMA.Business\\LMA.Business.csproj|c:\\users\\user\\source\\repos\\library management application\\lma.business\\services\\implementations\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{72720884-5A4A-4ED8-B0CA-364AE9111F7E}|LMA.Business\\LMA.Business.csproj|c:\\users\\user\\desktop\\library management application\\lma.business\\services\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72720884-5A4A-4ED8-B0CA-364AE9111F7E}|LMA.Business\\LMA.Business.csproj|solutionrelative:lma.business\\services\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72720884-5A4A-4ED8-B0CA-364AE9111F7E}|LMA.Business\\LMA.Business.csproj|c:\\users\\user\\desktop\\library management application\\lma.business\\services\\implementations\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72720884-5A4A-4ED8-B0CA-364AE9111F7E}|LMA.Business\\LMA.Business.csproj|solutionrelative:lma.business\\services\\implementations\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72720884-5A4A-4ED8-B0CA-364AE9111F7E}|LMA.Business\\LMA.Business.csproj|c:\\users\\user\\source\\repos\\library management application\\lma.business\\services\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72720884-5A4A-4ED8-B0CA-364AE9111F7E}|LMA.Business\\LMA.Business.csproj|solutionrelative:lma.business\\services\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72720884-5A4A-4ED8-B0CA-364AE9111F7E}|LMA.Business\\LMA.Business.csproj|c:\\users\\user\\desktop\\library management application\\lma.business\\services\\interfaces\\iborrowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72720884-5A4A-4ED8-B0CA-364AE9111F7E}|LMA.Business\\LMA.Business.csproj|solutionrelative:lma.business\\services\\interfaces\\iborrowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B9B06-2719-4683-B7FC-811D83AB6C53}|LMA.Core\\LMA.Core.csproj|c:\\users\\user\\desktop\\library management application\\lma.core\\entities\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1B9B06-2719-4683-B7FC-811D83AB6C53}|LMA.Core\\LMA.Core.csproj|solutionrelative:lma.core\\entities\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B9B06-2719-4683-B7FC-811D83AB6C53}|LMA.Core\\LMA.Core.csproj|c:\\users\\user\\desktop\\library management application\\lma.core\\entities\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1B9B06-2719-4683-B7FC-811D83AB6C53}|LMA.Core\\LMA.Core.csproj|solutionrelative:lma.core\\entities\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,11 +52,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Library Management Application\\LMA.CA\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.CA\\Program.cs",
               "RelativeDocumentMoniker": "LMA.CA\\Program.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\Library Management Application\\LMA.CA\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.CA\\Program.cs",
               "RelativeToolTip": "LMA.CA\\Program.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAAACQAAABHAAAA",
+              "ViewState": "AQIAANcBAAAAAAAAAAAAAAsCAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-13T17:27:42.563Z",
               "IsPinned": true,
@@ -52,26 +64,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IBookService.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Library Management Application\\LMA.Business\\Services\\Interfaces\\IBookService.cs",
-              "RelativeDocumentMoniker": "LMA.Business\\Services\\Interfaces\\IBookService.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\Library Management Application\\LMA.Business\\Services\\Interfaces\\IBookService.cs",
-              "RelativeToolTip": "LMA.Business\\Services\\Interfaces\\IBookService.cs",
+              "DocumentIndex": 1,
+              "Title": "ILoanService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.Business\\Services\\Interfaces\\ILoanService.cs",
+              "RelativeDocumentMoniker": "LMA.Business\\Services\\Interfaces\\ILoanService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.Business\\Services\\Interfaces\\ILoanService.cs",
+              "RelativeToolTip": "LMA.Business\\Services\\Interfaces\\ILoanService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T09:58:37.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.Core\\Entities\\Loan.cs",
+              "RelativeDocumentMoniker": "LMA.Core\\Entities\\Loan.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.Core\\Entities\\Loan.cs",
+              "RelativeToolTip": "LMA.Core\\Entities\\Loan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T09:15:07.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Borrower.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.Core\\Entities\\Borrower.cs",
+              "RelativeDocumentMoniker": "LMA.Core\\Entities\\Borrower.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.Core\\Entities\\Borrower.cs",
+              "RelativeToolTip": "LMA.Core\\Entities\\Borrower.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T09:14:50.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.Business\\Services\\Interfaces\\IBookService.cs",
+              "RelativeDocumentMoniker": "LMA.Business\\Services\\Interfaces\\IBookService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.Business\\Services\\Interfaces\\IBookService.cs",
+              "RelativeToolTip": "LMA.Business\\Services\\Interfaces\\IBookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T07:30:45.103Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "BookService.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Library Management Application\\LMA.Business\\Services\\Implementations\\BookService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.Business\\Services\\Implementations\\BookService.cs",
               "RelativeDocumentMoniker": "LMA.Business\\Services\\Implementations\\BookService.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\Library Management Application\\LMA.Business\\Services\\Implementations\\BookService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.Business\\Services\\Implementations\\BookService.cs",
               "RelativeToolTip": "LMA.Business\\Services\\Implementations\\BookService.cs",
-              "ViewState": "AQIAAHwAAAAAAAAAAAAAAJIAAAAAAAAA",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAuwJIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T07:30:43.394Z",
               "EditorCaption": ""
@@ -80,9 +131,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Library Management Application\\LMA.Core\\Entities\\Book.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.Core\\Entities\\Book.cs",
               "RelativeDocumentMoniker": "LMA.Core\\Entities\\Book.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\Library Management Application\\LMA.Core\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.Core\\Entities\\Book.cs",
               "RelativeToolTip": "LMA.Core\\Entities\\Book.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -91,26 +142,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "IBorrowerService.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Library Management Application\\LMA.Business\\Services\\Interfaces\\IBorrowerService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.Business\\Services\\Interfaces\\IBorrowerService.cs",
               "RelativeDocumentMoniker": "LMA.Business\\Services\\Interfaces\\IBorrowerService.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\Library Management Application\\LMA.Business\\Services\\Interfaces\\IBorrowerService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.Business\\Services\\Interfaces\\IBorrowerService.cs",
               "RelativeToolTip": "LMA.Business\\Services\\Interfaces\\IBorrowerService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T05:52:46.39Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BorrowerService.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Library Management Application\\LMA.Business\\Services\\Implementations\\BorrowerService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.Business\\Services\\Implementations\\BorrowerService.cs",
               "RelativeDocumentMoniker": "LMA.Business\\Services\\Implementations\\BorrowerService.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\Library Management Application\\LMA.Business\\Services\\Implementations\\BorrowerService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.Business\\Services\\Implementations\\BorrowerService.cs",
               "RelativeToolTip": "LMA.Business\\Services\\Implementations\\BorrowerService.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAAAEgAAABaAAAA",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAE0AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T05:52:39.89Z",
               "EditorCaption": ""

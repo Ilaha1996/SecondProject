@@ -9,5 +9,6 @@ public interface IBorrowerService
     Task CreateAsync(Borrower borrower);
     Task UpdateAsync(Borrower borrower);
     List<Borrower> GetLateReturners(List<Borrower> allBorrowers, bool isLate = true);
+    Task<List<Borrower>> GetBorrowersWithBorrowedBooks();
 
 }

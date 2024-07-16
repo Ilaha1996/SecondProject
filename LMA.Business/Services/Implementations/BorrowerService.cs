@@ -75,5 +75,15 @@ public class BorrowerService : IBorrowerService
         return allBorrowers.Where(b => b.LateReturner == isLate).ToList();
     }
 
+    public async Task<List<Borrower>> GetBorrowersWithBorrowedBooks()
+    {
+        var borrowersWithBooks = await _borrowerRepo.GetAll()
+                    .Include(b => b.Loans)
+                    .ThenInclude(l => l.Book)
+                    .ToListAsync();
+
+        return borrowersWithBooks;
+    }
 
 }
+

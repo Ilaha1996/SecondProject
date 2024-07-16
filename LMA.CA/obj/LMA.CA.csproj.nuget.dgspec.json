@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\source\\repos\\Library Management Application\\LMA.CA\\LMA.CA.csproj": {}
+    "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.CA\\LMA.CA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\source\\repos\\Library Management Application\\LMA.Business\\LMA.Business.csproj": {
+    "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.Business\\LMA.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\Library Management Application\\LMA.Business\\LMA.Business.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.Business\\LMA.Business.csproj",
         "projectName": "LMA.Business",
-        "projectPath": "C:\\Users\\USER\\source\\repos\\Library Management Application\\LMA.Business\\LMA.Business.csproj",
+        "projectPath": "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.Business\\LMA.Business.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\source\\repos\\Library Management Application\\LMA.Business\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\USER\\source\\repos\\Library Management Application\\LMA.Data\\LMA.Data.csproj": {
-                "projectPath": "C:\\Users\\USER\\source\\repos\\Library Management Application\\LMA.Data\\LMA.Data.csproj"
+              "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.Data\\LMA.Data.csproj": {
+                "projectPath": "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.Data\\LMA.Data.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\USER\\source\\repos\\Library Management Application\\LMA.CA\\LMA.CA.csproj": {
+    "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.CA\\LMA.CA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\Library Management Application\\LMA.CA\\LMA.CA.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.CA\\LMA.CA.csproj",
         "projectName": "LMA.CA",
-        "projectPath": "C:\\Users\\USER\\source\\repos\\Library Management Application\\LMA.CA\\LMA.CA.csproj",
+        "projectPath": "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.CA\\LMA.CA.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\source\\repos\\Library Management Application\\LMA.CA\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.CA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -94,8 +94,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\USER\\source\\repos\\Library Management Application\\LMA.Business\\LMA.Business.csproj": {
-                "projectPath": "C:\\Users\\USER\\source\\repos\\Library Management Application\\LMA.Business\\LMA.Business.csproj"
+              "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.Business\\LMA.Business.csproj": {
+                "projectPath": "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.Business\\LMA.Business.csproj"
               }
             }
           }
@@ -142,14 +142,14 @@
         }
       }
     },
-    "C:\\Users\\USER\\source\\repos\\Library Management Application\\LMA.Core\\LMA.Core.csproj": {
+    "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.Core\\LMA.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\Library Management Application\\LMA.Core\\LMA.Core.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.Core\\LMA.Core.csproj",
         "projectName": "LMA.Core",
-        "projectPath": "C:\\Users\\USER\\source\\repos\\Library Management Application\\LMA.Core\\LMA.Core.csproj",
+        "projectPath": "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.Core\\LMA.Core.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\source\\repos\\Library Management Application\\LMA.Core\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -213,14 +213,14 @@
         }
       }
     },
-    "C:\\Users\\USER\\source\\repos\\Library Management Application\\LMA.Data\\LMA.Data.csproj": {
+    "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.Data\\LMA.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\Library Management Application\\LMA.Data\\LMA.Data.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.Data\\LMA.Data.csproj",
         "projectName": "LMA.Data",
-        "projectPath": "C:\\Users\\USER\\source\\repos\\Library Management Application\\LMA.Data\\LMA.Data.csproj",
+        "projectPath": "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.Data\\LMA.Data.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\source\\repos\\Library Management Application\\LMA.Data\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -238,8 +238,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\USER\\source\\repos\\Library Management Application\\LMA.Core\\LMA.Core.csproj": {
-                "projectPath": "C:\\Users\\USER\\source\\repos\\Library Management Application\\LMA.Core\\LMA.Core.csproj"
+              "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.Core\\LMA.Core.csproj": {
+                "projectPath": "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.Core\\LMA.Core.csproj"
               }
             }
           }

@@ -4129,11 +4129,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\Library Management Application\\LMA.CA\\LMA.CA.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.CA\\LMA.CA.csproj",
       "projectName": "LMA.CA",
-      "projectPath": "C:\\Users\\USER\\source\\repos\\Library Management Application\\LMA.CA\\LMA.CA.csproj",
+      "projectPath": "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.CA\\LMA.CA.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\source\\repos\\Library Management Application\\LMA.CA\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.CA\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4151,8 +4151,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\USER\\source\\repos\\Library Management Application\\LMA.Business\\LMA.Business.csproj": {
-              "projectPath": "C:\\Users\\USER\\source\\repos\\Library Management Application\\LMA.Business\\LMA.Business.csproj"
+            "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.Business\\LMA.Business.csproj": {
+              "projectPath": "C:\\Users\\USER\\Desktop\\Library Management Application\\LMA.Business\\LMA.Business.csproj"
             }
           }
         }

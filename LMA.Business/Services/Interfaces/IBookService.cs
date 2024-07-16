@@ -15,5 +15,6 @@ public interface IBookService
     Task ChangeAvailableStatus (Book book);
     Task IncreaseBorrowedTimes(Book book);
     Task<List<Book>> FindAndDisplayMostBorrowedBooks();
+    Task SaveChanges();
 
 }

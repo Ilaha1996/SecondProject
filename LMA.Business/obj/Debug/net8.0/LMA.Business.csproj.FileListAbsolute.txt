@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\Library Management Application\LMA.Business\bin\Debug\net8.0\LMA.Business.deps.json
+C:\Users\USER\source\repos\Library Management Application\LMA.Business\bin\Debug\net8.0\LMA.Business.dll
+C:\Users\USER\source\repos\Library Management Application\LMA.Business\bin\Debug\net8.0\LMA.Business.pdb
+C:\Users\USER\source\repos\Library Management Application\LMA.Business\obj\Debug\net8.0\LMA.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Library Management Application\LMA.Business\obj\Debug\net8.0\LMA.Business.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Library Management Application\LMA.Business\obj\Debug\net8.0\LMA.Business.AssemblyInfo.cs
+C:\Users\USER\source\repos\Library Management Application\LMA.Business\obj\Debug\net8.0\LMA.Business.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Library Management Application\LMA.Business\obj\Debug\net8.0\LMA.Business.dll
+C:\Users\USER\source\repos\Library Management Application\LMA.Business\obj\Debug\net8.0\refint\LMA.Business.dll
+C:\Users\USER\source\repos\Library Management Application\LMA.Business\obj\Debug\net8.0\LMA.Business.pdb
+C:\Users\USER\source\repos\Library Management Application\LMA.Business\obj\Debug\net8.0\ref\LMA.Business.dll
+C:\Users\USER\source\repos\Library Management Application\LMA.Business\bin\Debug\net8.0\LMA.Core.dll
+C:\Users\USER\source\repos\Library Management Application\LMA.Business\bin\Debug\net8.0\LMA.Data.dll
+C:\Users\USER\source\repos\Library Management Application\LMA.Business\bin\Debug\net8.0\LMA.Data.pdb
+C:\Users\USER\source\repos\Library Management Application\LMA.Business\bin\Debug\net8.0\LMA.Core.pdb
+C:\Users\USER\source\repos\Library Management Application\LMA.Business\obj\Debug\net8.0\LMA.Business.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Library Management Application\LMA.Business\obj\Debug\net8.0\LMA.Busi.CD87143F.Up2Date

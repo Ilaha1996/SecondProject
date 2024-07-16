@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\Library Management Application\LMA.Data\bin\Debug\net8.0\LMA.Data.deps.json
+C:\Users\USER\source\repos\Library Management Application\LMA.Data\bin\Debug\net8.0\LMA.Data.dll
+C:\Users\USER\source\repos\Library Management Application\LMA.Data\bin\Debug\net8.0\LMA.Data.pdb
+C:\Users\USER\source\repos\Library Management Application\LMA.Data\obj\Debug\net8.0\LMA.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Library Management Application\LMA.Data\obj\Debug\net8.0\LMA.Data.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Library Management Application\LMA.Data\obj\Debug\net8.0\LMA.Data.AssemblyInfo.cs
+C:\Users\USER\source\repos\Library Management Application\LMA.Data\obj\Debug\net8.0\LMA.Data.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Library Management Application\LMA.Data\obj\Debug\net8.0\LMA.Data.dll
+C:\Users\USER\source\repos\Library Management Application\LMA.Data\obj\Debug\net8.0\refint\LMA.Data.dll
+C:\Users\USER\source\repos\Library Management Application\LMA.Data\obj\Debug\net8.0\LMA.Data.pdb
+C:\Users\USER\source\repos\Library Management Application\LMA.Data\obj\Debug\net8.0\ref\LMA.Data.dll
+C:\Users\USER\source\repos\Library Management Application\LMA.Data\bin\Debug\net8.0\LMA.Data.runtimeconfig.json
+C:\Users\USER\source\repos\Library Management Application\LMA.Data\bin\Debug\net8.0\LMA.Core.dll
+C:\Users\USER\source\repos\Library Management Application\LMA.Data\bin\Debug\net8.0\LMA.Core.pdb
+C:\Users\USER\source\repos\Library Management Application\LMA.Data\obj\Debug\net8.0\LMA.Data.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Library Management Application\LMA.Data\obj\Debug\net8.0\LMA.Data.csproj.Up2Date
+C:\Users\USER\source\repos\Library Management Application\LMA.Data\obj\Debug\net8.0\LMA.Data.genruntimeconfig.cache
